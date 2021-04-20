@@ -1,4 +1,5 @@
-### Hi there 👋
+![s0rg's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0rg&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0rg&layout=compact)](https://github.com/s0rg/github-readme-stats)
 
 <!--
 **s0rg/s0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
