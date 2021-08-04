@@ -1,6 +1,6 @@
 ![s0rg's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0rg&theme=gruvbox&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0rg&layout=compact&theme=gruvbox&hide=Makefile&hide=shell)](https://github.com/s0rg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0rg&layout=compact&theme=gruvbox&hide=shell)](https://github.com/s0rg/github-readme-stats)
 
 <!--
 **s0rg/s0rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
